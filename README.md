@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/XxtbmfxX/expenses-frontmentor)
-- Live Site URL: [Live site](https://github.com/XxtbmfxX/expenses-frontmentor)
+- Live Site URL: [Live site](https://soft-centaur-089b95.netlify.app/)
 
 ## My process
 
